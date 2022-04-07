@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Josh Beals</h1>
+<h1 align="left">Hola! I'm Josh Beals 👋 </h1>
 <h3 align="left">I'm A Fullstack Engineer</h3>
 
 - 🌱 I’m currently learning **Typescript and Testing with Jest**
