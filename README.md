@@ -1,7 +1,7 @@
 <h1 align="left">Hola! I'm Josh Beals 👋 </h1>
 <h3 align="left">I'm A Fullstack Engineer</h3>
 
-- 🌱 I’m currently learning **Typescript and Testing with Jest**
+- 🌱 I’m currently researching in **Formal Modelling and LLMs**
 
 - 👯 I’m looking to collaborate on **anything fun and productive**
 
